@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aqua
+}
+h2{
+    color:crimson;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aqua
+}
+h3{
+    color:deeppink;
+    background-color:aqua
+}
+p{
+    font-size:25px;
+    font-weight: normal;
+}
+
+body{
+    background-image: url("../images/01.png");
+    background-repeat: :no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
