@@ -16,11 +16,25 @@ h3{
 p{
     font-size:25px;
     font-weight: normal;
+    color:chartreuse 
 }
 
 body{
-    background-image: url("../images/01.png");
+    background-image: url("../images/04.png");
     background-repeat: :no-repeat;
     background-attachment: fixed;
     background-position: center; 
+}
+table{
+    background-color: cornflowerblue
+    
+}
+address
+{
+    color: chartreuse
+    
+}
+adress
+{
+color: chartreuse    
 }
