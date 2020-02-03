@@ -1,0 +1,50 @@
+body{
+   background-color: black;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+h1{
+     color:gold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:white;
+}
+p{
+    color:white;
+}
+p2{
+    color: white;
+}
+tr{
+    color: white;
+}
+h2{
+     color:gold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:white;
+}
+div1{
+vertical-align: top;
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    color: white;
+}
+div2{
+   vertical-align: top;
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    color: white;
+}
+div3{
+    vertical-align: top;
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    color: white;
+}
+    
+}
